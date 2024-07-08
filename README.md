@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Galufu
-- 👀 I’m interested in ...python, java and bash programming
+- 👀 I’m interested in ...python, java and C++ programming
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email: lazarousnthangalufu@gmail.com whatsapp: 077784361
